@@ -1,0 +1,27 @@
+
+*{
+    margin:10;
+    padding:15;
+    border: #29a183;
+}
+
+body{
+    background-color: #f5cac3;
+    color:rgb(134, 89, 30);
+}
+
+h1{
+ color:#590d22
+
+}
+strong{
+color:#483D8B;
+}
+.atributo{
+    color:#29a183;
+}
+.presentacion{
+
+    display: flex;
+    align-items: center;
+}
